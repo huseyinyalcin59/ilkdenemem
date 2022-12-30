@@ -1,2 +1,2 @@
 # ilkdenemem
-benim yaptığım ilk html css çalışmam
+yaptığım ilk html css çalışması
